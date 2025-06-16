@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thewindsofmind
-- 👀 I’m interested in Python Development and learning C++
+- 👀 I’m interested in Python Development and learning Java and C++
 - 🌱 I’m currently a participant in the DARPA CIDAR Grand Challenge
 - 💞️ I’m looking to collaborate on DARPA Challenges and/or Projects
 - 📫 Email sentientertainment@gmail.com
